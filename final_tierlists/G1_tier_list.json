@@ -1,0 +1,649 @@
+{
+    "ssMonster": [
+        {
+            "monsterName": "Sagar",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0068_1_3.png",
+            "aiScore": 6.1571428571428575
+        },
+        {
+            "monsterName": "Ragdoll",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0025_4_0.png",
+            "aiScore": 5.8999999999999995
+        },
+        {
+            "monsterName": "Velajuel",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0019_1_2.png",
+            "aiScore": 5.571428571428571
+        },
+        {
+            "monsterName": "Seara",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0022_2_1.png",
+            "aiScore": 6.042857142857143
+        },
+        {
+            "monsterName": "Vivachel",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0043_4_2.png",
+            "aiScore": 5.828571428571428
+        },
+        {
+            "monsterName": "Oliver",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0076_1_3.png",
+            "aiScore": 5.8
+        },
+        {
+            "monsterName": "Giana",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0022_4_1.png",
+            "aiScore": 6.3428571428571425
+        },
+        {
+            "monsterName": "Chandra",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0027_0_1.png",
+            "aiScore": 5.314285714285715
+        },
+        {
+            "monsterName": "Haegang",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0056_1_1.png",
+            "aiScore": 5.485714285714286
+        },
+        {
+            "monsterName": "Kovarci",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0106_1_4.png",
+            "aiScore": 5.685714285714285
+        },
+        {
+            "monsterName": "Vanessa",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0014_1_2.png",
+            "aiScore": 5.014285714285714
+        }
+    ],
+    "smonster": [
+        {
+            "monsterName": "Ramael and Judiah",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0136_1_1.png",
+            "aiScore": 4.6000000000000005
+        },
+        {
+            "monsterName": "Gapsoo",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0133_1_5.png",
+            "aiScore": 4.457142857142856
+        },
+        {
+            "monsterName": "Julianne",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0016_3_2.png",
+            "aiScore": 4.1000000000000005
+        }
+    ],
+    "amonster": [
+        {
+            "monsterName": "Veronica",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0087_1_4.png",
+            "aiScore": 3.8714285714285714
+        },
+        {
+            "monsterName": "Zeratu",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0017_4_2.png",
+            "aiScore": 3.6571428571428575
+        },
+        {
+            "monsterName": "Lora",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0022_3_4.png",
+            "aiScore": 3.671428571428571
+        },
+        {
+            "monsterName": "Tian Lang",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0041_3_4.png",
+            "aiScore": 3.4571428571428564
+        },
+        {
+            "monsterName": "Shizuka",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0072_1_1.png",
+            "aiScore": 3.628571428571429
+        },
+        {
+            "monsterName": "Miles",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0076_1_1.png",
+            "aiScore": 3.1571428571428575
+        },
+        {
+            "monsterName": "Douman",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0072_1_5.png",
+            "aiScore": 3.2285714285714286
+        },
+        {
+            "monsterName": "Nephthys",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0039_4_2.png",
+            "aiScore": 3.3714285714285714
+        },
+        {
+            "monsterName": "Yeonhong",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0029_3_3.png",
+            "aiScore": 3.099999999999999
+        },
+        {
+            "monsterName": "Maximilian",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0080_1_5.png",
+            "aiScore": 3.085714285714286
+        }
+    ],
+    "bmonster": [
+        {
+            "monsterName": "Eivor",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0107_1_5.png",
+            "aiScore": 2.5000000000000004
+        },
+        {
+            "monsterName": "Sonia",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0087_1_3.png",
+            "aiScore": 2.8714285714285714
+        },
+        {
+            "monsterName": "Juno",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0022_1_1.png",
+            "aiScore": 2.857142857142857
+        },
+        {
+            "monsterName": "Nyx",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0040_4_3.png",
+            "aiScore": 2.6999999999999997
+        },
+        {
+            "monsterName": "Nana",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0075_1_1.png",
+            "aiScore": 2.3857142857142857
+        },
+        {
+            "monsterName": "Ethna",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0023_2_1.png",
+            "aiScore": 2.3999999999999995
+        },
+        {
+            "monsterName": "Eleanor",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0043_3_4.png",
+            "aiScore": 2.3285714285714287
+        },
+        {
+            "monsterName": "Wedjat",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0039_3_0.png",
+            "aiScore": 2.6285714285714286
+        },
+        {
+            "monsterName": "Lucifer",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0052_3_4.png",
+            "aiScore": 2.1285714285714286
+        },
+        {
+            "monsterName": "Han",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0013_4_3.png",
+            "aiScore": 2.1714285714285717
+        },
+        {
+            "monsterName": "Seimei",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0072_1_4.png",
+            "aiScore": 2.3857142857142857
+        }
+    ],
+    "cmonster": [
+        {
+            "monsterName": "Akroma",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0014_3_2.png",
+            "aiScore": 1.657142857142857
+        },
+        {
+            "monsterName": "Elenoa",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0033_3_3.png",
+            "aiScore": 1.0857142857142856
+        },
+        {
+            "monsterName": "Shan",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0017_3_2.png",
+            "aiScore": 1.8714285714285714
+        },
+        {
+            "monsterName": "Mei Hou Wang",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0025_1_4.png",
+            "aiScore": 1.842857142857143
+        },
+        {
+            "monsterName": "Wolyung",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0029_4_3.png",
+            "aiScore": 1.3142857142857145
+        },
+        {
+            "monsterName": "Pontos",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0035_3_3.png",
+            "aiScore": 1.7285714285714284
+        },
+        {
+            "monsterName": "Woosa",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0031_0_1.png",
+            "aiScore": 1.5714285714285714
+        },
+        {
+            "monsterName": "Destiny",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0087_1_5.png",
+            "aiScore": 1.4000000000000001
+        },
+        {
+            "monsterName": "Kassandra",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0108_1_2.png",
+            "aiScore": 1.5714285714285712
+        },
+        {
+            "monsterName": "Xing Zhe",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0025_2_4.png",
+            "aiScore": 1.625
+        },
+        {
+            "monsterName": "Oberon",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0040_3_3.png",
+            "aiScore": 1.3142857142857145
+        },
+        {
+            "monsterName": "Narsha",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0054_3_0.png",
+            "aiScore": 1.0142857142857145
+        },
+        {
+            "monsterName": "Karnal",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0068_1_2.png",
+            "aiScore": 1.4714285714285715
+        },
+        {
+            "monsterName": "ROBO-F29",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0077_1_5.png",
+            "aiScore": 1.6285714285714283
+        },
+        {
+            "monsterName": "N1X",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0146_1_5.png",
+            "aiScore": 1.4142857142857144
+        },
+        {
+            "monsterName": "Adriana",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0099_1_1.png",
+            "aiScore": 1.8714285714285712
+        },
+        {
+            "monsterName": "Zenisek",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0106_1_5.png",
+            "aiScore": 1.4285714285714286
+        },
+        {
+            "monsterName": "Veromos",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0032_4_2.png",
+            "aiScore": 1.357142857142857
+        },
+        {
+            "monsterName": "Sekhmet",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0039_1_2.png",
+            "aiScore": 1.7714285714285711
+        },
+        {
+            "monsterName": "Laima",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0022_3_1.png",
+            "aiScore": 1.2285714285714284
+        },
+        {
+            "monsterName": "Masha",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0054_1_0.png",
+            "aiScore": 1.5857142857142856
+        },
+        {
+            "monsterName": "Nicki",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0022_4_4.png",
+            "aiScore": 1.5999999999999999
+        },
+        {
+            "monsterName": "Craig",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0068_1_4.png",
+            "aiScore": 1.457142857142857
+        },
+        {
+            "monsterName": "Devaraja",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0118_1_5.png",
+            "aiScore": 1.6
+        },
+        {
+            "monsterName": "Giou",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0072_1_3.png",
+            "aiScore": 1.1
+        },
+        {
+            "monsterName": "Ongyouki",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0073_1_5.png",
+            "aiScore": 1.2
+        },
+        {
+            "monsterName": "Smicer",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0106_1_3.png",
+            "aiScore": 1.542857142857143
+        },
+        {
+            "monsterName": "Mo Long",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0041_0_4.png",
+            "aiScore": 1.0571428571428572
+        },
+        {
+            "monsterName": "Talisman",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0066_1_4.png",
+            "aiScore": 1.3285714285714285
+        },
+        {
+            "monsterName": "Ella",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0078_1_4.png",
+            "aiScore": 1.2
+        },
+        {
+            "monsterName": "Eshir",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0053_3_1.png",
+            "aiScore": 1.042857142857143
+        },
+        {
+            "monsterName": "Tomoe",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0072_1_2.png",
+            "aiScore": 1.1857142857142857
+        }
+    ],
+    "dmonster": [
+        {
+            "monsterName": "Satoru Gojo",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0158_1_4.png",
+            "aiScore": 0.8714285714285717
+        },
+        {
+            "monsterName": "Trinity",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0014_4_2.png",
+            "aiScore": 0.5857142857142856
+        },
+        {
+            "monsterName": "Lucia",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0099_1_2.png",
+            "aiScore": 0.8857142857142858
+        },
+        {
+            "monsterName": "Megumi Fushiguro",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0157_1_5.png",
+            "aiScore": 0.7666666666666667
+        },
+        {
+            "monsterName": "Craka",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0023_4_1.png",
+            "aiScore": 0.8285714285714285
+        },
+        {
+            "monsterName": "Josephine",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0044_0_4.png",
+            "aiScore": 0.8714285714285713
+        },
+        {
+            "monsterName": "Qitian Dasheng",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0025_3_4.png",
+            "aiScore": 0.7428571428571429
+        },
+        {
+            "monsterName": "Riley",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0078_1_3.png",
+            "aiScore": 0.8571428571428573
+        },
+        {
+            "monsterName": "Racuni",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0041_1_2.png",
+            "aiScore": 0.7857142857142857
+        },
+        {
+            "monsterName": "Bayek",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0110_1_3.png",
+            "aiScore": 0.7285714285714285
+        },
+        {
+            "monsterName": "Jamire",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0016_2_0.png",
+            "aiScore": 0.45714285714285713
+        },
+        {
+            "monsterName": "Praha",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0022_0_1.png",
+            "aiScore": 0.35714285714285715
+        },
+        {
+            "monsterName": "Jager",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0025_3_0.png",
+            "aiScore": 0.5285714285714286
+        },
+        {
+            "monsterName": "Abellio",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0046_0_2.png",
+            "aiScore": 0.7428571428571429
+        },
+        {
+            "monsterName": "ROBO-G92",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0077_1_3.png",
+            "aiScore": 0.7714285714285715
+        },
+        {
+            "monsterName": "Son Zhang Lao",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0025_4_4.png",
+            "aiScore": 0.5142857142857143
+        },
+        {
+            "monsterName": "Fermion",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0019_4_2.png",
+            "aiScore": 0.675
+        },
+        {
+            "monsterName": "Bella",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0049_4_4.png",
+            "aiScore": 0.6714285714285715
+        },
+        {
+            "monsterName": "Miruel and Graciah",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0136_1_4.png",
+            "aiScore": 0.7999999999999998
+        },
+        {
+            "monsterName": "Eludia",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0017_3_3.png",
+            "aiScore": 0.4857142857142857
+        },
+        {
+            "monsterName": "Tablo",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0043_3_0.png",
+            "aiScore": 0.5857142857142857
+        },
+        {
+            "monsterName": "Diana",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0043_2_4.png",
+            "aiScore": 0.5
+        },
+        {
+            "monsterName": "Bolverk",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0047_0_2.png",
+            "aiScore": 0.38571428571428573
+        },
+        {
+            "monsterName": "Kinki",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0073_1_4.png",
+            "aiScore": 0.42857142857142855
+        },
+        {
+            "monsterName": "Camilla",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0014_0_2.png",
+            "aiScore": 0.2285714285714286
+        },
+        {
+            "monsterName": "Chow",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0025_0_0.png",
+            "aiScore": 0.5714285714285714
+        },
+        {
+            "monsterName": "Beelzebub",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0052_4_4.png",
+            "aiScore": 0.32857142857142857
+        },
+        {
+            "monsterName": "Ezio",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0109_1_4.png",
+            "aiScore": 0.45
+        },
+        {
+            "monsterName": "Jaara",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0017_4_3.png",
+            "aiScore": 0.38
+        },
+        {
+            "monsterName": "Okeanos",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0035_1_3.png",
+            "aiScore": 0.15999999999999998
+        },
+        {
+            "monsterName": "Thebae",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0038_4_1.png",
+            "aiScore": 0.45714285714285713
+        },
+        {
+            "monsterName": "Kiki",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0075_1_5.png",
+            "aiScore": 0.39999999999999997
+        },
+        {
+            "monsterName": "Elena",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0099_1_5.png",
+            "aiScore": 0.2285714285714286
+        },
+        {
+            "monsterName": "7R1X",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0146_1_2.png",
+            "aiScore": 0.32857142857142857
+        },
+        {
+            "monsterName": "Tesarion",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0032_1_2.png",
+            "aiScore": 0.39999999999999997
+        },
+        {
+            "monsterName": "Xiana",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0054_4_0.png",
+            "aiScore": 0.17142857142857143
+        },
+        {
+            "monsterName": "Asima",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0023_3_1.png",
+            "aiScore": 0.25
+        },
+        {
+            "monsterName": "Nigong",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0031_3_1.png",
+            "aiScore": 0.27999999999999997
+        },
+        {
+            "monsterName": "Lydia",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0033_4_3.png",
+            "aiScore": 0.25000000000000006
+        },
+        {
+            "monsterName": "Vancliffe",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0066_1_5.png",
+            "aiScore": 0.4571428571428572
+        },
+        {
+            "monsterName": "Daniel",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0076_1_4.png",
+            "aiScore": 0.25
+        },
+        {
+            "monsterName": "Zima",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0106_1_2.png",
+            "aiScore": 0.21428571428571427
+        },
+        {
+            "monsterName": "Artamiel",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0019_3_2.png",
+            "aiScore": 0.16666666666666666
+        },
+        {
+            "monsterName": "Beth",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0023_0_1.png",
+            "aiScore": 0.16
+        },
+        {
+            "monsterName": "Chiwu",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0031_1_1.png",
+            "aiScore": 0.21428571428571427
+        },
+        {
+            "monsterName": "Isis",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0039_3_2.png",
+            "aiScore": 0.32857142857142857
+        },
+        {
+            "monsterName": "Daphnis",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0040_1_3.png",
+            "aiScore": 0.13333333333333333
+        },
+        {
+            "monsterName": "Douglas",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0066_1_2.png",
+            "aiScore": 0.22000000000000003
+        },
+        {
+            "monsterName": "Dominic",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0080_1_3.png",
+            "aiScore": 0.12
+        },
+        {
+            "monsterName": "Ariana",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0099_1_4.png",
+            "aiScore": 0.31428571428571433
+        },
+        {
+            "monsterName": "Alice",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0097_1_2.png",
+            "aiScore": 0.125
+        },
+        {
+            "monsterName": "Audrey",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0097_1_4.png",
+            "aiScore": 0.15000000000000002
+        },
+        {
+            "monsterName": "Euldong",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0133_1_4.png",
+            "aiScore": 0.34
+        },
+        {
+            "monsterName": "Tiana",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0033_2_3.png",
+            "aiScore": 0.45
+        },
+        {
+            "monsterName": "Jackson",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0076_1_5.png",
+            "aiScore": 0.5249999999999999
+        },
+        {
+            "monsterName": "Layla",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0127_1_3.png",
+            "aiScore": 0.275
+        },
+        {
+            "monsterName": "Charlotte",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0022_2_4.png",
+            "aiScore": 0.19999999999999998
+        },
+        {
+            "monsterName": "Psamathe",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0040_0_3.png",
+            "aiScore": 0.175
+        },
+        {
+            "monsterName": "Amber",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0087_1_1.png",
+            "aiScore": 0.22500000000000003
+        },
+        {
+            "monsterName": "Yennefer",
+            "monsterHeadImg": "https://swarfarm.com/static/herders/images/monsters/unit_icon_0143_1_5.png",
+            "aiScore": 0.225
+        }
+    ]
+}
