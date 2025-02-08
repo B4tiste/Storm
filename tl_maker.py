@@ -43,7 +43,7 @@ for json_filename in json_files:
       background: #f9f9f9;
       padding: 20px;
     }}
-    h1 {{
+    h1, h2 {{
       text-align: center;
     }}
     .tier {{
@@ -89,6 +89,7 @@ for json_filename in json_files:
 </head>
 <body>
   <h1>Tier List des Monstres {rank}</h1>
+  <h2>Donnée du 28 Octobre 2024 au 02 Février 2025</h2>
 """
 
     # Pour chaque tier défini, ajouter la section correspondante
